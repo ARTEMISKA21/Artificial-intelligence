@@ -5,7 +5,7 @@ from gtts import gTTS
 import os
 import pygame
 
-api_key = "jxCbOuu5NVj200y9yjQEhKt8VKkJ2rGK"
+api_key = ""
 model = "mistral-large-latest"
 client = Mistral(api_key=api_key)
 
