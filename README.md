@@ -25,7 +25,7 @@ pipwin install pyaudio
 После настройки запустите скрипт:
 
 ```bash
-python Artificial_intelligence.py
+Artificial_intelligence.py
 ```
 
 ## Использование
