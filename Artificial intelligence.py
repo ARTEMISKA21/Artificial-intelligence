@@ -58,7 +58,7 @@ def listen_and_save():
 
                 speak(answer)
 
-                with open("ss.txt", "a", encoding="utf-8") as file:
+                with open("queries.txt", "a", encoding="utf-8") as file:
                     file.write(text + "\n")
                     
             except sr.WaitTimeoutError:
